@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5,
 		-webkit-box-shadow: 0px 20px 35px -30px rgba(0,0,0,0.26);
 		-moz-box-shadow: 0px 20px 35px -30px rgba(0,0,0,0.26);
 		box-shadow: 0px 20px 35px -30px rgba(0,0,0,0.26);
-		.icon{
+		.icon-slider{
 			width: 70px;
 			height: 70px;
 			border-radius: 50%;
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5,
 	}
 	&:hover{
 		.img{
-			.icon{
+			.icon-slider{
 				opacity: 1;
 			}
 		}
