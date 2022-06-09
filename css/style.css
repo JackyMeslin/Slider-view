@@ -323,7 +323,10 @@ footer {
       width: 100%;
     }
     .container-txt-2 {
-      width: 110%;
+      width: 100%;
+    }
+    h2 {
+      font-size: 36px;
     }
     .flexbox {
       justify-content: center;
